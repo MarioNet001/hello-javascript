@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <nombre>mario torres garcia</nombre>
+  <edad>27</edad>
+  <fechaNacimiento>1993-01-01</fechaNacimiento>
+  <lenguajes>
+    <iteam1>javascript</iteam1>
+    <iteam2>python</iteam2>
+    <iteam3>java</iteam3>
+  </lenguajes>
+</root>

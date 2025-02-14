@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.2/dist/tailwind.min.css" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+
+    <title>Document</title>
+    <style>
+        .st{
+            margin-top: 20px;
+        }   
+        .custom-icon {
+            width: 60px; 
+            height: 48px;
+            vertical-align: middle; 
+            margin-right: 20px; 
+            margin-left: 20px; 
+
+        }
+
+        .search {
+    position: relative;
+    height: 50px;
+    & .input{
+        height: 50px;
+        width: 50px;
+        position: relative;
+        transition: width 0.3s ease;
+    }
+    &.active .input{
+        width: 200px;
+    }
+        }
+.bnt-search {
+    border: 0;
+    cursor: pointer;
+    font-size: 24px;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 50px;
+    transition: transform 0.3s ease;
+}
+.bnt-search:focus{
+    .input:focus{
+        outline: none;
+    }
+}
+    </style>
+</head>
+<body>
+    <section class="text-gray-400 bg-gray-900 body-font " style="height: 100vh;">
+        <div class="container mx-auto flex flex-col px-5 py-24  items-center justify-center" id="content">
+            <h1 class=" flex title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Pokedex <i><img class="custom-icon" src="https://img.icons8.com/?size=100&id=16460&format=png&color=000000"></i> </h1>
+            <div class="relative mr-4 lg:w-full xl:w-1/2 w-2/4 md:w-full text-center">
+            <div class=" w-full justify-center " >
+                    <label for="hero-field" class=" relative leading-7 text-sm text-white">Introduce el nombre o id del pokemon : </label>
+                    <div class="search active ">
+                        <input type="text" class="input  bg-gray-800 rounded border bg-opacity-40 border-gray-700 focus:ring-2 focus:ring-red-900 focus:bg-transparent focus:border-red-500 text-base outline-none text-gray-100  leading-8 transition-colors duration-200 ease-in-out" placeholder="Search..." />
+                        <button class="bnt-search  text-white bg-red-500 border-0  focus:outline-none hover:bg-red-600 rounded ">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+                </div>
+                    <h1 id="name" class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white"></h1>
+                <img id='img'class="lg:w-1/6 md:w-2/6 w-3/6  object-cover object-center rounded" alt="hero" src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png">
+            <div class="w-full md:w-2/3 flex flex-col mb-16 items-center text-center">
+            <p id="text" class="mb-8 leading-relaxed"></p>
+            </div>
+        </div>
+
+        
+        </section>
+        <script src="./app.js"> </script>
+</body>
+</html>

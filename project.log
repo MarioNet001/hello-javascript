@@ -1,0 +1,202 @@
+19:21:52.061 INFO  Tarea añadida 
+19:21:52.061 INFO  Tarea añadida 
+19:21:52.061 INFO  Tarea añadida 
+19:21:52.061 INFO  Tarea añadida 
+19:21:52.061 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:21:52.061 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:21:52.062 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:21:52.062 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:21:52.062 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:21:52.062 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:21:52.062 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:21:52.064 INFO  Tareas guardadas 
+19:21:52.064 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:21:52.064 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:21.350 INFO  Tarea añadida 
+19:24:21.350 INFO  Tarea añadida 
+19:24:21.350 INFO  Tarea añadida 
+19:24:21.350 INFO  Tarea añadida 
+19:24:21.350 INFO  Tarea añadida 
+19:24:21.350 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:24:21.350 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:24:21.350 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:21.350 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:21.350 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:21.350 ERROR Tarea eliminada 
+19:24:21.350 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:24:21.350 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:21.350 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:21.350 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:21.353 INFO  Tareas guardadas 
+19:24:21.353 ERROR Tarea eliminada 
+19:24:21.353 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:21.353 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:21.353 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:25.702 INFO  Tarea añadida 
+19:24:25.702 INFO  Tarea añadida 
+19:24:25.702 INFO  Tarea añadida 
+19:24:25.702 INFO  Tarea añadida 
+19:24:25.702 INFO  Tarea añadida 
+19:24:25.702 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:24:25.702 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:24:25.702 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:25.702 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:25.702 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:25.702 ERROR Tarea eliminada 
+19:24:25.702 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:24:25.702 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:25.702 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:25.702 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:24:25.704 INFO  Tareas guardadas 
+19:24:25.704 ERROR Tarea eliminada 
+19:24:25.705 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:24:25.705 INFO  Tarea: tarea4, Descripcion: undefined 
+19:24:25.705 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:43.937 INFO  Tarea añadida 
+19:25:43.937 INFO  Tarea añadida 
+19:25:43.937 INFO  Tarea añadida 
+19:25:43.937 INFO  Tarea añadida 
+19:25:43.937 INFO  Tarea añadida 
+19:25:43.938 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:25:43.938 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:25:43.938 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:43.938 INFO  Tarea: tarea4, Descripcion: undefined 
+19:25:43.938 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:43.938 ERROR Tarea eliminada 
+19:25:43.938 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:25:43.938 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:43.938 INFO  Tarea: tarea4, Descripcion: undefined 
+19:25:43.938 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:43.941 INFO  Tareas guardadas 
+19:25:43.941 ERROR Tarea eliminada 
+19:25:43.941 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:43.941 INFO  Tarea: tarea4, Descripcion: undefined 
+19:25:43.941 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:58.543 INFO  Tarea añadida 
+19:25:58.543 INFO  Tarea añadida 
+19:25:58.543 INFO  Tarea añadida 
+19:25:58.543 INFO  Tarea añadida 
+19:25:58.543 INFO  Tarea añadida 
+19:25:58.547 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:25:58.547 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:25:58.547 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:58.547 INFO  Tarea: tarea4, Descripcion: 12 
+19:25:58.547 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:58.547 ERROR Tarea eliminada 
+19:25:58.548 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:25:58.548 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:58.548 INFO  Tarea: tarea4, Descripcion: 12 
+19:25:58.548 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:25:58.550 INFO  Tareas guardadas 
+19:25:58.550 ERROR Tarea eliminada 
+19:25:58.551 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:25:58.551 INFO  Tarea: tarea4, Descripcion: 12 
+19:25:58.551 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:28:55.352 INFO  Tarea añadida 
+19:28:55.352 INFO  Tarea añadida 
+19:28:55.352 INFO  Tarea añadida 
+19:28:55.352 INFO  Tarea añadida 
+19:28:55.352 INFO  Tarea añadida 
+19:28:55.355 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:28:55.355 INFO  Tarea: tarea2, Descripcion: hacer la comida 
+19:28:55.355 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:28:55.355 INFO  Tarea: tarea4, Descripcion: 12 
+19:28:55.355 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:28:55.355 ERROR Tarea eliminada 
+19:28:55.356 INFO  Tarea: tarea1, Descripcion: lavar la ropa  
+19:28:55.356 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:28:55.356 INFO  Tarea: tarea4, Descripcion: 12 
+19:28:55.356 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:28:55.358 INFO  Tareas guardadas 
+19:28:55.358 ERROR Tarea eliminada 
+19:28:55.359 INFO  Tarea: tarea3, Descripcion: estudiar 
+19:28:55.359 INFO  Tarea: tarea4, Descripcion: 12 
+19:28:55.359 INFO  Tarea: tarea4, Descripcion: hacer ejercicio 
+19:30:28.024 INFO  Tarea añadida 
+19:30:28.024 INFO  Tarea añadida 
+19:30:28.024 INFO  Tarea añadida 
+19:30:28.024 INFO  Tarea añadida 
+19:30:28.024 INFO  Tarea añadida 
+19:30:28.024 INFO  Tareas Pendientes: 
+19:30:28.024 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:30:28.024 INFO    Tarea: tarea2, Descripcion: hacer la comida 
+19:30:28.024 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:30:28.024 INFO    Tarea: tarea4, Descripcion: 12 
+19:30:28.024 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:30:28.024 ERROR Tarea eliminada 
+19:30:28.024 INFO  Tareas Pendientes: 
+19:30:28.024 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:30:28.024 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:30:28.024 INFO    Tarea: tarea4, Descripcion: 12 
+19:30:28.024 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:30:28.025 INFO  Tareas guardadas 
+19:30:28.025 ERROR Tarea eliminada 
+19:30:28.026 INFO  Tareas Pendientes: 
+19:30:28.026 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:30:28.026 INFO    Tarea: tarea4, Descripcion: 12 
+19:30:28.026 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:04.420 INFO  Tarea añadida 
+19:31:04.420 INFO  Tarea añadida 
+19:31:04.420 INFO  Tarea añadida 
+19:31:04.420 INFO  Tarea añadida 
+19:31:04.420 INFO  Tarea añadida 
+19:31:04.420 INFO  Tareas Pendientes: 
+19:31:04.420 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:31:04.420 INFO    Tarea: tarea2, Descripcion: hacer la comida 
+19:31:04.420 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:04.420 INFO    Tarea: tarea4, Descripcion: 12 
+19:31:04.420 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:04.420 ERROR Tarea eliminada 
+19:31:04.420 INFO  Tareas Pendientes: 
+19:31:04.420 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:31:04.420 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:04.420 INFO    Tarea: tarea4, Descripcion: 12 
+19:31:04.420 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:04.423 INFO  Tareas guardadas 
+19:31:04.423 ERROR Tarea eliminada 
+19:31:04.423 INFO  Tareas Pendientes: 
+19:31:04.423 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:04.423 INFO    Tarea: tarea4, Descripcion: 12 
+19:31:04.423 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:16.130 INFO  Tarea añadida 
+19:31:16.130 INFO  Tarea añadida 
+19:31:16.130 INFO  Tarea añadida 
+19:31:16.130 INFO  Tarea añadida 
+19:31:16.130 INFO  Tarea añadida 
+19:31:16.130 INFO  Tareas Pendientes: 
+19:31:16.130 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:31:16.130 INFO    Tarea: tarea2, Descripcion: hacer la comida 
+19:31:16.130 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:16.130 INFO    Tarea: tarea4, Descripcion: 1,2,3,2 
+19:31:16.130 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:16.130 ERROR Tarea eliminada 
+19:31:16.130 INFO  Tareas Pendientes: 
+19:31:16.130 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:31:16.130 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:16.130 INFO    Tarea: tarea4, Descripcion: 1,2,3,2 
+19:31:16.130 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:31:16.133 INFO  Tareas guardadas 
+19:31:16.133 ERROR Tarea eliminada 
+19:31:16.133 INFO  Tareas Pendientes: 
+19:31:16.133 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:31:16.133 INFO    Tarea: tarea4, Descripcion: 1,2,3,2 
+19:31:16.133 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:33:05.039 INFO  Tarea añadida 
+19:33:05.039 INFO  Tarea añadida 
+19:33:05.039 INFO  Tarea añadida 
+19:33:05.039 INFO  Tarea añadida 
+19:33:05.040 INFO  Tareas Pendientes: 
+19:33:05.040 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:33:05.040 INFO    Tarea: tarea2, Descripcion: hacer la comida 
+19:33:05.040 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:33:05.040 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:33:05.040 WARN  Tarea eliminada 
+19:33:05.040 INFO  Tareas Pendientes: 
+19:33:05.040 INFO    Tarea: tarea1, Descripcion: lavar la ropa  
+19:33:05.040 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:33:05.040 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 
+19:33:05.041 INFO  Tareas guardadas 
+19:33:05.041 WARN  Tarea eliminada 
+19:33:05.041 INFO  Tareas Pendientes: 
+19:33:05.042 INFO    Tarea: tarea3, Descripcion: estudiar 
+19:33:05.042 INFO    Tarea: tarea4, Descripcion: hacer ejercicio 

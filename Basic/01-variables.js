@@ -28,3 +28,5 @@ console.log(helloWorld3)
 // Error
 // helloWorld3 = "¡Hola de nuevo, JavaScript 2!"
 // console.log(helloWorld3)
+
+console.log("que pasa aca" )

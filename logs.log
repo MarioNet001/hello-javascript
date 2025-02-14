@@ -1,0 +1,4 @@
+18:52:47.190 INFO  mensaje de info 
+18:52:47.190 ERROR mensaje de error 
+18:52:47.190 WARN  mensaje de warn 
+18:52:47.190 FATAL mensaje de fatal 
