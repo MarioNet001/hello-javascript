@@ -1,7 +1,9 @@
 /*
-Clase 1 en vídeo | 10/07/2024
-Introducción, instalación, hola mundo y variables
-https://www.twitch.tv/videos/2194200202?t=00h14m43s
+Clases 1 a 14 (sin código)
+Vídeo: https://youtu.be/1glVfFxj8a4
+
+Clase 15 - Hola mundo
+Vídeo: https://youtu.be/1glVfFxj8a4?t=2390
 */
 
 // Esto es un comentario simple
